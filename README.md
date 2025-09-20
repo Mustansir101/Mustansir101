@@ -1,12 +1,12 @@
 
-<h2 align="center">Hi 👋! I'm Mustansir Agashiwala</h1>
-<h6 align="center">A Passionate Full Stack Developer From India</h6>
+<h1 align="center">Hi 👋! I'm Mustansir Agashiwala</h1>
+<h4 align="center">A Passionate Full Stack Developer From India</h4>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustansir101.Mustansir101&"  />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Mustansir101&theme=flat" height="100" alt="trophy graph"  />
 </div>
 

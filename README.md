@@ -1,68 +1,60 @@
+<h1 align="center">Hi 👋 I'm Mustansir Agashiwala</h1>
 
-<h1 align="center">Hi 👋! I'm Mustansir Agashiwala</h1>
-<h4 align="center">A Passionate Full Stack Developer From India</h4>
+<p align="center">
+  <strong>Full Stack Developer | Tech Enthusiast | Problem Solver</strong>
+</p>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustansir101.Mustansir101&"  />
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustansir101.Mustansir101" alt="Profile Views" />
+</p>
+
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Mustansir101&theme=flat" height="120" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Mustansir101&theme=flat&margin-w=5" height="120" alt="trophy graph"  />
 </div>
 
-###
-- 🌱 I’m currently learning **advanced web developement concept**
-- 📫 How to reach me: agasi.mustansir@gmail.com
-- ⚡Fun fact would like to talk about **tech Startups**
+## 🚀 About Me
 
-### Skills :
+- 🌱 Currently mastering **advanced web development concepts** and exploring **modern JavaScript frameworks**
+- 💡 Passionate about **building scalable applications** and **discussing tech startups**
+- 🎯 Always eager to collaborate on innovative projects and open-source contributions
+- 📧 Reach out: **agasi.mustansir@gmail.com**
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="36" alt="graphql logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="redis logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=redux" height="36" alt="redux logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="36" alt="postman logo"  />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux" alt="Frontend Skills" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,graphql,redis" alt="Backend Skills" />
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=docker,git,github" alt="Tools" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="48" alt="postman" />
+
 </div>
 
-### Connect With Me :
-<p align="left">
-<a href="https://www.linkedin.com/in/mustansir-agasi-3218b6211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal more" height="30" width="40" /></a>
+## 📊 GitHub Analytics
 
-
-### Most Used Languages :
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mustansir101&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true&order=2" height="130" alt="languages graph"  />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mustansir101&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mustansir101&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-###
+
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustansir-agasi-3218b6211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:agasi.mustansir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
+<p align="center">💭 <em>"Building the future, one line of code at a time"</em></p>

@@ -39,8 +39,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mustansir101&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mustansir101&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mustansir101&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mustansir101&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 

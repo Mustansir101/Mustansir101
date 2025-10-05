@@ -9,8 +9,12 @@
 </p>
 
 
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Mustansir101&theme=flat&margin-w=5" height="120" alt=""  />
+</div> -->
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Mustansir101&theme=flat&margin-w=5" height="120" alt="trophy graph"  />
+  <img src="https://github-trophies.vercel.app/?username=Mustansir101" height="220" alt=""  />
 </div>
 
 ## 🚀 About Me

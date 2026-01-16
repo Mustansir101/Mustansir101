@@ -10,10 +10,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=Mustansir101&theme=flat&margin-w=5" height="120" alt="Profile_Trophy"  />
 </div> -->
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Mustansir101" height="220" alt=""  />
-</div>
-
 ## 🚀 About Me
 
 - 🌱 Currently mastering **advanced web development concepts** and exploring **modern JavaScript and Python frameworks**

@@ -5,8 +5,7 @@
 </p>
 
 <p align="">
-I am a 3rd Year Comp Engg Student at PICT, building scalable full stack applications and GenAI systems with a strong focus on backend architecture,
-performance, and real world problem solving.
+I am a 3rd Year Comp Engg Student at PICT. I have expertise in TypeScript and Python Development, building scalable full stack applications and GenAI systems with a strong focus on backend architecture.
 </p>
 
 ## 🚀 About Me
